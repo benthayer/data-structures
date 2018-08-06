@@ -1,0 +1,1 @@
+This repo contains my implementation of certain data structures and algorithms. Several of them are a part of problems on hackerrank to help verify the correctness of each of the implementations. Also, the names of the files generally specify which data structure is implemented or which problem is solved.
